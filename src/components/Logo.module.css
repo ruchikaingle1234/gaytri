@@ -1,0 +1,345 @@
+.microsoft1Icon {
+  
+  align-self: stretch;
+  height: 26px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.connectionPoint {
+  aspect-ratio: 3.23;
+  object-fit: auto;
+  object-position: center;
+  width: 99px;
+  align-self: stretch;
+  margin: auto 0;
+  /* margin-left: -211px;
+  height: 34px;
+  width: 131px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box; */
+}
+.google20151Icon {
+  /* align-self: stretch;
+  height: 31px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0; */
+  aspect-ratio: 2.78;
+  object-fit: auto;
+  object-position: center;
+  width: 106px;
+  align-self: stretch;
+  max-width: 100%;
+  margin: auto 0;  
+}
+.google20151Wrapper {
+  height: 36.5px;
+  width: 99px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-7xs-5);
+  box-sizing: border-box;
+}
+.kisspngAmazonComLogoBrandIcon {
+  align-self: stretch;
+  height: 38px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  
+}
+.kisspngAmazonComLogoBrandWrapper {
+  aspect-ratio: 5;
+  object-fit: auto;
+  object-position: center;
+  width: 131px;
+  align-self: stretch;
+  max-width: 100%;
+  margin: auto 0;
+  /* height: 40px;
+  width: 106px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box; */
+}
+.hireFor1000,
+.inputFilter {
+  display: flex;
+  justify-content: center;
+}
+.hireFor1000 {
+  width: 312px;
+  position: relative;
+  font-weight: 500;
+  align-items: center;
+  text-align: center;
+  align-self: center;
+}
+.inputFilter {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl);
+}
+.kisspngNokiaNetworksLogoNyIcon {
+  align-self: stretch;
+  height: 26px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.kisspngNokiaNetworksLogoNyWrapper {
+  aspect-ratio: 3.33;
+  object-fit: auto;
+  object-position: center;
+  width: 140px;
+  fill: #343434;
+  align-self: stretch;
+  max-width: 100%;
+  /* height: 34px;
+  width: 131px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box; */
+}
+.cousinOnceRemove {
+  height: 42px;
+  width: 140px;
+  position: relative;
+}
+.microsoft2Icon {
+  align-self: stretch;
+  height: 26px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.connectionPoint1 {
+  aspect-ratio: 5;
+    object-fit: auto;
+    object-position: center;
+    width: 131px;
+    align-self: stretch;
+    max-width: 100%;
+    margin: auto 0;
+  /* height: 34px;
+  width: 131px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box; */
+}
+.connectionPoint1,
+.dataAggregator,
+.frameParent {
+  display: flex;
+  align-items: flex-start;
+}
+.frameParent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.dataAggregator {
+  width: 562px;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--gap-11xl);
+  max-width: 100%;
+  padding: 50px 0;
+}
+.google20152Icon {
+  align-self: stretch;
+  height: 31px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.google20152Wrapper {
+  aspect-ratio: 2.78;
+    object-fit: auto;
+    object-position: center;
+    width: 106px;
+    align-self: stretch;
+    max-width: 100%;
+    margin: auto 0;
+  /* height: 36.5px;
+  width: 99px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-7xs-5);
+  box-sizing: border-box; */
+}
+.kisspngAmazonComLogoBrandIcon1 {
+  align-self:center;
+  height: 38px;
+  position:relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.kisspngAmazonComLogoBrandContainer {
+  height: 40px;
+  width: 106px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:flex-start;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.kisspngNokiaNetworksLogoNyIcon1 {
+  align-self: stretch;
+  height: 26px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.kisspngNokiaNetworksLogoNyContainer {
+  height: 34px;
+  width: 131px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+}
+.logo {
+  align-self: stretch;
+  background-color: var(--primary-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content:space-between;
+  padding: 0 74px;
+  /* padding: var(--padding-31xl) var(--padding-54xl-5); */
+  box-sizing: border-box;
+  /* gap: var(--gap-61xl); */
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-plum);
+  font-family: var(--font-poppins);
+  /*  */
+  margin-top: 30px;
+  gap: 20px;
+}
+@media screen and (max-width: 1400px) {
+  .logo {
+    max-width: 100%;
+    flex-wrap: wrap;
+    padding: 0;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .frameParent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .logo {
+    gap: 80px 40px;
+  }
+
+  .dataAggregator{
+
+    position: relative;
+    bottom:90px;
+  }
+
+  .kisspngAmazonComLogoBrandIcon{
+
+    position: relative;
+    top:190px;
+    left:10px;
+  }
+  
+  .google20152Icon{
+
+    display:flex;
+    flex-direction: 200px;
+  }
+
+ .kisspngAmazonComLogoBrandIcon1{
+
+  display:flex;
+  flex-direction: 200px;
+ }
+ .google20151Icon{
+
+  position: relative;
+  left:290px;
+  top: 185px;
+  right: 200px;
+ }
+
+ .microsoft2Icon{
+
+  display: flex;
+  flex-direction: 300px;
+ }
+
+ .microsoft1Icon{
+  position: relative;
+  left: 530px;
+  top: 95px;
+ }
+ 
+
+ .kisspngNokiaNetworksLogoNyIcon{
+  display: none;
+ }
+
+
+
+ .kisspngNokiaNetworksLogoNyIcon1{
+position: relative;
+right: 260px;
+bottom: 205px;
+
+ }
+
+ .logo{
+
+  padding: 5px;
+ }
+
+}
+@media screen and (max-width: 450px) {
+  .hireFor1000 {
+    font-size: var(--font-size-base);
+  }
+  .logo {
+    gap: 80px 20px;
+  }
+}
